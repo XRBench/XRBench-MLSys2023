@@ -25,3 +25,6 @@ A version of XRBench-MAESTRO used for MLSys 2023 publication.
 
 # Development Plan
 - This version is tightly intergrated with MAESTRO. We plan to make it more modular so that XRBench can be plugged into other cost models and simulators as well.
+
+# Contact
+Please reach out us via info@xrbench.ai
