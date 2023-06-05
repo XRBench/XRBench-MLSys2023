@@ -1,0 +1,3 @@
+
+python3 XRbench_evaluation/scripts/draw_timeline.py XRbench_evaluation/eval_data/schedule/schedule_AR_gaming__Dual_4K__WS_OS.csv XRbench_evaluation/plots/AR_gaming___Dual_4K__WS_OS.pdf 2 520
+python3 XRbench_evaluation/scripts/draw_timeline.py XRbench_evaluation/eval_data/schedule/schedule_AR_gaming__Dual_8K__WS_OS.csv XRbench_evaluation/plots/AR_gaming___Dual_8K__WS_OS.pdf 2 520

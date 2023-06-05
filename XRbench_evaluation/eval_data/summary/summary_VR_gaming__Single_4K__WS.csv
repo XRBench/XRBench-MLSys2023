@@ -1,0 +1,5 @@
+Model Name,Real-time Score,Energy Score,User-Experience Score
+ES_RITNet,1.000000,0.976447,1.000000
+GE_FBNet_C,1.000000,0.976719,1.000000
+HT_hand_graph_cnn_half,0.743658,0.861711,1.000000
+Overall Score,86.466141
