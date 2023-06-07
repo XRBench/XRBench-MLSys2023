@@ -26,7 +26,7 @@ A version of XRBench-MAESTRO used for MLSys 2023 publication.
   -> Check "XRbench_evaluation/plots/AR_gaming___Dual_4K__WS_OS.pdf" and "XRbench_evaluation/plots/AR_gaming___Dual_8K__WS_OS.pdf" 
 
 # Development Plan
-- This version is tightly intergrated with MAESTRO. We plan to make it more modular so that XRBench can be plugged into other cost models and simulators as well. (The updates will be announced in our homepage https://xrbench.ai)
+- This version is tightly intergrated with MAESTRO. We plan to make it more modular so that XRBench can be plugged into other cost models and simulators as well. Please refer to our website for more details https://xrbench.ai
 
 # Contact
 If you have any questions, please reach out to us via info@xrbench.ai
