@@ -11,7 +11,9 @@ A version of XRBench-MAESTRO used for MLSys 2023 publication.
 
 # How to run evaluation (Push button-style scripts)
 > ./reproduce_figure5.sh
+
 > ./reproduce_figure6.sh
+
 > ./reproduce_figure7_data.sh
 
 # Note
